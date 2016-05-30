@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:GCDApplyDemo/GCDApplyDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GCDAfterDemo/GCDAfterDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GCDOnceDemo/GCDOnceDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GCDSemaphoreDemo/GCDSemaphoreDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GCDGroupDemo/GCDGroupDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GCDBarrierDemo/GCDBarrierDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GCDCommunicationDemo/GCDCommunicationDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GCDDemo/GCDDemo.xcodeproj">
+   </FileRef>
+</Workspace>
